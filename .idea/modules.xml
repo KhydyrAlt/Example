@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Elevator/Elevator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Enum/Enum.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Enum/Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal1/Enum1/Enum1.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal1/Enum1/Enum1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Example.iml" filepath="$PROJECT_DIR$/.idea/Example.iml" />

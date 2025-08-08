@@ -1,12 +1,11 @@
 public class Main {
-
     public static void main(String[] args) {
         Basket basket = new Basket();
-        basket.add("Milk", 40, 1000);
-        basket.add("Chicken", 150, 700);
+        basket.add("Молоко", 40, 1000);
+        basket.add("Курица", 150, 700);
         basket.print("");
 
-        System.out.println(Basket.getCount());
-        System.out.println("Средняя цена всех товаров :" + Basket.setAverageItems());
+        System.out.println("Общее количество: " + Basket.getTotalItems());
+        System.out.printf("Средняя цена: %.2f руб.", basket.getAveragePrice());
     }
 }

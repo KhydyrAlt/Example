@@ -1,83 +1,33 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Basket {
-
-    private static int count = 0;
-    private String items = "";
-    private int totalPrice = 0;
-    private int limit;
-    private static int averageItems;
-
-
-    public Basket() {
-        increaseCount(1);
-        items = "Список товаров:";
-        this.limit = 1000000;
-    }
-
-    public Basket(int limit) {
-        this();
-        this.limit = limit;
-    }
-
-    public static int setAverageItems() {
-        return averageItems + getCount();
-    }
-    public Basket(String items, int totalPrice) {
-        this();
-        this.items = this.items + items;
-        this.totalPrice = totalPrice;
-    }
-
-    public static int getCount() {
-        return count;
-    }
-
-    public static void increaseCount(int count) {
-        Basket.count = Basket.count + count;
-    }
-
-    public void add(String name, int price) {
-        add(name, price,1);
-    }
+    private static int totalItems = 0;
+    private List<String> names = new ArrayList<>();
+    private List<Integer> prices = new ArrayList<>();
+    private List<Integer> weights = new ArrayList<>();
 
     public void add(String name, int price, int weight) {
-        boolean error = false;
-        if (contains(name)) {
-            error = true;
-        }
-
-        if (totalPrice + count * price >= limit ) {
-            error = true;
-        }
-
-        if (error) {
-            System.out.println("Error occurred :(");
-            return;
-        }
-
-        items = items + "\n" + name + " - " +
-                count + " шт. - " + price + " Рублей. " + weight + " Грамм ";
-        totalPrice = totalPrice + count * price;
+        names.add(name);
+        prices.add(price);
+        weights.add(weight);
+        totalItems++;
     }
 
-    public void clear() {
-        items = "";
-        totalPrice = 0;
+    public static int getTotalItems() {
+        return totalItems;
     }
 
-    public int getTotalPrice() {
-        return totalPrice;
+    public double getAveragePrice() {
+        if (prices.isEmpty()) return 0;
+        return prices.stream().mapToInt(Integer::intValue).average().orElse(0);
     }
 
-    public boolean contains(String name) {
-        return items.contains(name);
-    }
-
-    public void print(String title) {
-        System.out.println(title);
-        if (items.isEmpty()) {
-            System.out.println("Корзина пуста");
-        } else {
-            System.out.println(items);
+    public void print(String prefix) {
+        System.out.println(prefix + "Корзина:");
+        for (int i = 0; i < names.size(); i++) {
+            System.out.printf("- %s: %d руб., %d г\n", names.get(i), prices.get(i), weights.get(i));
         }
+        System.out.printf("Итого: %d товаров\n", names.size());
     }
 }

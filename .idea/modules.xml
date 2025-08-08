@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/Collection.iml" filepath="$PROJECT_DIR$/java_basics/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionMap/CollectionMap.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionMap/CollectionMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionSet/CollectionSet.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionSet/CollectionSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionsArray/CollectionsArray.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionsArray/CollectionsArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionsList/CollectionsList.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionsList/CollectionsList.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" />
@@ -20,9 +21,12 @@
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/ObjectsAndMethods/ObjectsAndMethods.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/ObjectsAndMethods/ObjectsAndMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Pojo/Pojo.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Pojo/Pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/JavaString/Regex/Regex.iml" filepath="$PROJECT_DIR$/java_basics/JavaString/Regex/Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionsArray/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionsArray/ReverseArray/ReverseArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/StaticFinal.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/StaticFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/JavaString/String/String.iml" filepath="$PROJECT_DIR$/java_basics/JavaString/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionsArray/TwoDimensionalArray/TwoDimensionalArray.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionsArray/TwoDimensionalArray/TwoDimensionalArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Copy/copy.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Copy/copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Collection/CollectionsArray/Hospital/hospital.iml" filepath="$PROJECT_DIR$/java_basics/Collection/CollectionsArray/Hospital/hospital.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/java_basics.iml" filepath="$PROJECT_DIR$/java_basics/java_basics.iml" />
     </modules>
   </component>

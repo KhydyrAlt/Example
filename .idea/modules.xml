@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionSet/CollectionSet.iml" filepath="$PROJECT_DIR$/java_basics/CollectionSet/CollectionSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Elevator/Elevator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Elevator/Elevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Enum/Enum.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Enum/Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal1/Enum1/Enum1.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal1/Enum1/Enum1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Example.iml" filepath="$PROJECT_DIR$/.idea/Example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Immutable/Immutable.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Immutable/Immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Immutable/Immutable.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Immutable/Immutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/InheritanceBasics/InheritanceBasics.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/InheritanceBasics/InheritanceBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/NumbersAndDates/NumbersAndDates.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/NumbersAndDates/NumbersAndDates.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/ObjectsAndMethods/ObjectsAndMethods.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/ObjectsAndMethods/ObjectsAndMethods.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Pojo/Pojo.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/Pojo/Pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Pojo/Pojo.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Pojo/Pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/StaticFinal.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/StaticFinal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/copy/copy.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Encapsulation/copy/copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/copy/copy.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/copy/copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/java_basics.iml" filepath="$PROJECT_DIR$/java_basics/java_basics.iml" />
     </modules>
   </component>

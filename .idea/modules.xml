@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionSet/CollectionSet.iml" filepath="$PROJECT_DIR$/java_basics/CollectionSet/CollectionSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionsList/CollectionsList.iml" filepath="$PROJECT_DIR$/java_basics/CollectionsList/CollectionsList.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/Computer/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Elevator/Elevator.iml" />

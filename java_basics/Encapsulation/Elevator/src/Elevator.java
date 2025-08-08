@@ -1,18 +1,11 @@
-import java.net.SocketOption;
-
 public class Elevator {
-
     private int currentFloor = 1;
-    private int minFloor;
-    private int maxFloor;
+    private final int minFloor;
+    private final int maxFloor;
 
     public Elevator(int minFloor, int maxFloor) {
         this.minFloor = minFloor;
         this.maxFloor = maxFloor;
-    }
-
-    public int getCurrentFloor() {
-        return currentFloor;
     }
 
     public void moveDown() {
@@ -24,18 +17,22 @@ public class Elevator {
     }
 
     public void move(int floor) {
-        if (floor < minFloor || floor > maxFloor || floor == currentFloor) {
-            System.out.println("Лифт не может проехать на данный этаж:");
+        if (floor < minFloor || floor > maxFloor) {
+            System.out.println("Ошибка: этаж должен быть между " + minFloor + " и " + maxFloor);
+        } else if (floor == currentFloor) {
+            System.out.println("Лифт уже на этом этаже");
         } else if (currentFloor < floor) {
+            System.out.println("Лифт поднимается...");
             while (currentFloor < floor) {
                 moveUp();
-                System.out.println("Вы сейчас на:" + currentFloor + "этаже.");
-
+                System.out.println("Текущий этаж: " + currentFloor);
             }
-        } else while (currentFloor > floor)
-            moveDown();
-        System.out.println("Вы сейчас на: " + currentFloor + "этаже.");
-
+        } else {
+            System.out.println("Лифт опускается...");
+            while (currentFloor > floor) {
+                moveDown();
+                System.out.println("Текущий этаж: " + currentFloor);
+            }
+        }
     }
 }
-

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionMap/CollectionMap.iml" filepath="$PROJECT_DIR$/java_basics/CollectionMap/CollectionMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionSet/CollectionSet.iml" filepath="$PROJECT_DIR$/java_basics/CollectionSet/CollectionSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/CollectionsList/CollectionsList.iml" filepath="$PROJECT_DIR$/java_basics/CollectionsList/CollectionsList.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/CollectionsSearch/CollectionsSearch.iml" />

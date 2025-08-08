@@ -14,10 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Example.iml" filepath="$PROJECT_DIR$/.idea/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Immutable/Immutable.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Immutable/Immutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/InheritanceBasics/InheritanceBasics.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/InheritanceBasics/InheritanceBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/JavaString/JavaString.iml" filepath="$PROJECT_DIR$/java_basics/JavaString/JavaString.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/NumbersAndDates/NumbersAndDates.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/NumbersAndDates/NumbersAndDates.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/ObjectsAndMethods/ObjectsAndMethods.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/ObjectsAndMethods/ObjectsAndMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/Pojo/Pojo.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/Pojo/Pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/JavaString/Regex/Regex.iml" filepath="$PROJECT_DIR$/java_basics/JavaString/Regex/Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/StaticFinal/StaticFinal.iml" filepath="$PROJECT_DIR$/java_basics/StaticFinal/StaticFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/JavaString/String/String.iml" filepath="$PROJECT_DIR$/java_basics/JavaString/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/Encapsulation/copy/copy.iml" filepath="$PROJECT_DIR$/java_basics/Encapsulation/copy/copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics/java_basics.iml" filepath="$PROJECT_DIR$/java_basics/java_basics.iml" />
     </modules>
